@@ -25,6 +25,9 @@ Antes de executar o projeto, instale as seguintes bibliotecas Python:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
 ```
+Ou rode os códigos diretamente por google colab:
+Análise: https://colab.research.google.com/drive/1E1hPlcC3mMl73eqGUxmma5gT2RyW3Qg2?usp=sharing
+Simulação: https://colab.research.google.com/drive/1onXLEMi4hZ7xIK48jjDqPJDVPRwNRGRR?usp=sharing
 ---
 ## 1. Análise de Dados
 
