@@ -24,3 +24,31 @@ O trabalho é dividido em duas etapas principais:
 Antes de executar o projeto, instale as seguintes bibliotecas Python:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
+## 1. Análise de Dados
+
+A análise de dados tem como objetivo compreender os fatores que influenciam a eficiência das fontes de energia renovável.  
+Foram exploradas as principais variáveis do conjunto de dados e suas relações com a variável alvo **Efficiency_Ratio**, que representa a eficiência de geração.
+
+### Estrutura dos Dados
+A base inclui as seguintes colunas principais:
+- **Temperature_C**: temperatura ambiente em graus Celsius.  
+- **Wind_Speed_m_s**: velocidade média do vento em metros por segundo.  
+- **Solar_Radiation_kWh_m2**: radiação solar diária em kWh/m².  
+- **Rainfall_mm**: precipitação em milímetros.  
+- **Energy_Source**: tipo de fonte renovável (solar, eólica, etc).  
+- **Efficiency_Ratio**: percentual de eficiência da produção de energia.  
+
+### Principais Etapas da Análise
+1. **Inspeção e limpeza dos dados:** verificação de valores ausentes e estrutura das colunas.  
+2. **Análise estatística descritiva:** cálculo de médias, desvios e faixas de variação.  
+3. **Matriz de correlação:** identificação de relações entre variáveis climáticas e eficiência.  
+4. **Visualizações individuais:**  
+   - Gráfico de dispersão entre **temperatura** e **eficiência** mostrou tendência de queda de eficiência em temperaturas elevadas.  
+   - **Velocidade do vento** apresentou correlação positiva com eficiência em turbinas eólicas.  
+   - **Radiação solar** teve relação direta com eficiência em sistemas fotovoltaicos.  
+   - **Chuva** indicou possível impacto negativo devido à obstrução e resfriamento dos equipamentos.
+
+### Interpretação dos Resultados
+A análise demonstrou que fatores ambientais têm influência direta sobre o desempenho energético.  
+Essas observações formam a base para o desenvolvimento da solução, que visa prever a eficiência e sugerir ajustes automáticos conforme as condições ambientais.
