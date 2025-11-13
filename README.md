@@ -63,4 +63,38 @@ No caso da **velocidade do vento**, observou-se uma correlação positiva com a 
 A **precipitação** apresentou relação negativa com a eficiência. Chuvas intensas reduzem a incidência solar, provocam umidade excessiva e podem interferir no desempenho de painéis e turbinas. Em contrapartida, chuvas leves ocasionais podem auxiliar na limpeza dos módulos solares, evitando acúmulo de poeira e melhorando o rendimento em períodos subsequentes.
 
 De forma geral, os gráficos e correlações permitiram identificar padrões que indicam **quais condições ambientais favorecem ou comprometem o desempenho energético**. Essas informações fundamentam a construção de modelos preditivos e de sistemas automatizados capazes de ajustar a operação conforme o clima, maximizando o aproveitamento das fontes renováveis e minimizando perdas por ineficiência.
+---
 
+## 2. Solução Sustentável e Automatizada
+
+Com base nos resultados obtidos na análise de dados, foi desenvolvida uma solução voltada à **otimização e automação do uso de energias renováveis**.  
+O objetivo é aplicar modelos preditivos e estratégias de controle inteligente que possibilitem o **ajuste dinâmico da operação energética** de acordo com as condições climáticas, reduzindo desperdícios e aumentando a eficiência.
+
+### 2.1. Modelo Preditivo de Eficiência Energética
+O modelo estatístico, baseado em regressão linear, utiliza variáveis climáticas (temperatura, radiação solar, velocidade do vento e precipitação) para **estimar a eficiência prevista** de sistemas solares e eólicos.  
+Através do treinamento com dados históricos, o modelo é capaz de:
+- Antecipar períodos de baixa eficiência e permitir planejamento de manutenção preventiva.  
+- Indicar faixas ideais de operação para maximizar o desempenho.  
+- Apoiar decisões estratégicas sobre o uso combinado de diferentes fontes de energia.  
+
+Os coeficientes obtidos no modelo demonstram o peso de cada variável no comportamento da eficiência. Assim, é possível identificar **quais fatores devem ser monitorados com maior prioridade** e onde ajustes automáticos podem gerar ganhos significativos.
+
+### 2.2. Automação e Integração com IoT
+A solução proposta prevê a integração com sensores IoT (Internet of Things) para **monitoramento em tempo real** de variáveis ambientais e operacionais.  
+Com esses dados, o sistema pode:
+- Acionar **rotinas automáticas de ajuste**, como mudança no ângulo dos painéis solares conforme a radiação.  
+- Regular o funcionamento de turbinas eólicas de acordo com a velocidade do vento.  
+- Enviar alertas de anomalias ou ineficiências detectadas pelo modelo preditivo.  
+- Armazenar dados contínuos para retroalimentar o modelo e aprimorar suas previsões.
+
+Essa integração permite que o sistema funcione de forma autônoma, adaptando-se ao ambiente e otimizando o uso dos recursos disponíveis, o que representa um passo em direção a uma **infraestrutura energética inteligente e sustentável**.
+
+### 2.3. Benefícios Sustentáveis
+A adoção dessa abordagem oferece uma série de benefícios ambientais e econômicos:
+- **Redução de desperdício energético**, ao ajustar automaticamente a operação conforme a demanda e as condições do clima.  
+- **Maior vida útil dos equipamentos**, pela prevenção de sobrecargas e superaquecimento.  
+- **Aumento da eficiência global**, aproveitando o potencial máximo das fontes renováveis.  
+- **Apoio a políticas de sustentabilidade corporativa**, demonstrando uso responsável da energia e compromisso com práticas ecológicas.
+
+Em síntese, a solução combina **análise de dados, predição e automação** para criar um sistema inteligente de gestão energética.  
+Essa integração entre ciência de dados e tecnologias sustentáveis reforça o papel da inovação na transição para um modelo energético mais eficiente, resiliente e ambientalmente responsável.
