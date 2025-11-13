@@ -63,6 +63,7 @@ No caso da **velocidade do vento**, observou-se uma correlação positiva com a 
 A **precipitação** apresentou relação negativa com a eficiência. Chuvas intensas reduzem a incidência solar, provocam umidade excessiva e podem interferir no desempenho de painéis e turbinas. Em contrapartida, chuvas leves ocasionais podem auxiliar na limpeza dos módulos solares, evitando acúmulo de poeira e melhorando o rendimento em períodos subsequentes.
 
 De forma geral, os gráficos e correlações permitiram identificar padrões que indicam **quais condições ambientais favorecem ou comprometem o desempenho energético**. Essas informações fundamentam a construção de modelos preditivos e de sistemas automatizados capazes de ajustar a operação conforme o clima, maximizando o aproveitamento das fontes renováveis e minimizando perdas por ineficiência.
+
 ---
 
 ## 2. Solução Sustentável e Automatizada
