@@ -32,6 +32,7 @@ https://colab.research.google.com/drive/1E1hPlcC3mMl73eqGUxmma5gT2RyW3Qg2?usp=sh
 
 Simulação: 
 https://colab.research.google.com/drive/1onXLEMi4hZ7xIK48jjDqPJDVPRwNRGRR?usp=sharing
+
 ---
 ## 1. Análise de Dados
 
